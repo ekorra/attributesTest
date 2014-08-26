@@ -1,7 +1,7 @@
 * text=auto
 Folder2/*.txt text eol=lf
 Folder3/Folder4/*.txt text eol=lf
-*.pp text eol_lf
+*.pp text eol=lf
 *.erb text eol=lf
 *.yaml text eol=lf
 *.sh text eol=lf
