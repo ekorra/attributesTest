@@ -1,6 +1,6 @@
 * text=auto
 /Folder3/*.txt text eol=crlf
-/Folder3/Folder4/ text eol=lf
+/Folder3/Folder4/* text eol=lf
 *.pp text eol=lf
 *.erb text eol=lf
 *.yaml text eol=lf
