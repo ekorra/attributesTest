@@ -1,0 +1,26 @@
+* text=auto
+*.pp text eol=lf
+*.erb text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
+*.xml text eol=lf
+*.idporten text eol=lf
+*.opendj text eol=lf
+*.sql text eol=lf
+*.ldif text eol=lf
+*.properties text eol=lf
+*.jks binary
+*.der binary
+*.zip binary
+*.jar binary
+*.png binary
+*.jpg binary
+*.bmp binary
+*.doc binary
+*.pdf binary
+*.rpm binary
+*.cer binary
+*.bid binary
+*.crt binary
+*.p12 binary
+*.war binary
